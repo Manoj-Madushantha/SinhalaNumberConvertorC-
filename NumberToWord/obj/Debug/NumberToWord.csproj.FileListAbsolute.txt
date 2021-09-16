@@ -1,0 +1,10 @@
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.Form1.resources
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.Properties.Resources.resources
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csproj.GenerateResource.cache
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.exe
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.pdb
+C:\Users\manoj\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csprojAssemblyReference.cache
