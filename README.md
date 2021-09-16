@@ -17,7 +17,7 @@ you can refer my reviuous repo wordpress plugin fir sinhala number word converto
 
 ![Interface2](/iterface2.jpg)
 
-![Interface3](/iterface3.jpg)
+![Interface3](https://www.photobox.co.uk/my/photo/full?photo_id=504104826642)
 
 ## Requirement
 * Dotnet 4.5
