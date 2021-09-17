@@ -13,7 +13,7 @@ you can refer my reviuous repo wordpress plugin fir sinhala number word converto
 
 ## ScreenShots
 
-![Interface1](iterface1.png)
+![Interface1](/iterface1.png)
 
 ![Interface2](iterface2.png)
 
