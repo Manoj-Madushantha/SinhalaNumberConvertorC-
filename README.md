@@ -13,11 +13,11 @@ you can refer my reviuous repo wordpress plugin fir sinhala number word converto
 
 ## ScreenShots
 
-![Interface1](/iterface1.png)
+![Interface1](https://i.imgur.com/1UhcfhH.png)
 
-![Interface2](iterface2.png)
+![Interface2](https://i.imgur.com/7KPJyE9.png)
 
-![Interface3](iterface3.png)
+![Interface3](https://i.imgur.com/yuChIfb.png)
 
 ## Requirement
 * Dotnet 4.5
